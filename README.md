@@ -7,7 +7,7 @@
 <body>
   <h1>Análise de Dados de Vendas - Projeto com Jupyter Notebook</h1>
 
-  <p>Este é um projeto em Python utilizando o Jupyter Notebook para realizar uma análise detalhada de dados de vendas de uma franquia de açaí, contidos em uma tabela do Excel. A tabela possui cerca de 70 mil linhas e contém informações sobre vendas, formas de pagamento, lojas, estados e cidades, forma de pagamentos e etc.</p>
+  <p>Este é um projeto em Python utilizando o Jupyter Notebook para realizar uma análise detalhada de dados de vendas de uma franquia de açaí, contidos em uma tabela do Excel. A tabela possui cerca de 70 mil linhas e contém informações sobre vendas, formas de pagamento, lojas, estados e cidades e etc.</p>
 
   <h2>Objetivo</h2>
 
