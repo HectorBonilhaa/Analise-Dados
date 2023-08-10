@@ -50,6 +50,10 @@
     <li><strong>Visualização Gráfica:</strong> Utilizamos a biblioteca Plotly_express para criar gráficos visuais que representam as análises realizadas.</li>
   </ol>
 
+
+   <h2>Gráficos Interativos</h2>
+
+   
   <h2>Resultados</h2>
 
   <p>Ao final da análise, você terá uma compreensão mais profunda dos padrões de vendas de acordo com diferentes critérios. Os gráficos gerados permitirão uma visualização clara e concisa desses padrões, facilitando a tomada de decisões informadas.</p>
