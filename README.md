@@ -52,7 +52,7 @@
 
 
    <h2>Gráficos Interativos</h2>
-
+      <img src="graficoLojas.png" alt="grafico do total de faturamento de cada loja, podendo filtrar por métodos de pegamentos diferentes">
    
   <h2>Resultados</h2>
 
